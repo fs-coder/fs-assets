@@ -1,0 +1,1 @@
+Our static resources are stored here, such as logos, images.
